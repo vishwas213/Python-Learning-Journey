@@ -6,4 +6,7 @@ if name[:] == name[::-1] :
     print(" this word is palindrome")
 else:
     print("this word is not palindrome")
-    
+
+
+
+

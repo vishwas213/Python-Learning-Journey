@@ -9,3 +9,4 @@ elif 18.5 < bmi <= 25:
     print (" bmi is perfect")
 else :
     print("bmi is overweights")
+
